@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "Team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alexandriarogers"
+  },
+  "author": "Alexandria Rogers",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jest-cli": "^29.0.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": []
+}
